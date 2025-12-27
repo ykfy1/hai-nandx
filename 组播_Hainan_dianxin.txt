@@ -10,25 +10,15 @@ http://112.66.101.248:8888/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
 http://112.66.101.248:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://112.66.105.203:8888/rtp/239.253.64.14:5140
+http://112.66.141.50:8888/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://112.66.105.203:8888/rtp/239.253.64.124:5140
+http://112.66.141.50:8888/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://112.66.105.203:8888/rtp/239.253.64.122:5140
+http://112.66.141.50:8888/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://112.66.105.203:8888/rtp/239.253.64.121:5140
+http://112.66.141.50:8888/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://112.66.105.203:8888/rtp/239.253.64.119:5140
-#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://112.66.143.29:8888/rtp/239.253.64.14:5140
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://112.66.143.29:8888/rtp/239.253.64.124:5140
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://112.66.143.29:8888/rtp/239.253.64.122:5140
-#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://112.66.143.29:8888/rtp/239.253.64.121:5140
-#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://112.66.143.29:8888/rtp/239.253.64.119:5140
+http://112.66.141.50:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
 http://112.66.183.32:5106/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
@@ -40,25 +30,35 @@ http://112.66.183.32:5106/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
 http://112.66.183.32:5106/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://112.66.227.132:8886/rtp/239.253.64.14:5140
+http://112.66.229.143:554/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://112.66.227.132:8886/rtp/239.253.64.124:5140
+http://112.66.229.143:554/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://112.66.227.132:8886/rtp/239.253.64.122:5140
+http://112.66.229.143:554/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://112.66.227.132:8886/rtp/239.253.64.121:5140
+http://112.66.229.143:554/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://112.66.227.132:8886/rtp/239.253.64.119:5140
+http://112.66.229.143:554/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://112.67.38.71:8686/rtp/239.253.64.14:5140
+http://112.66.229.143:8886/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://112.67.38.71:8686/rtp/239.253.64.124:5140
+http://112.66.229.143:8886/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://112.67.38.71:8686/rtp/239.253.64.122:5140
+http://112.66.229.143:8886/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://112.67.38.71:8686/rtp/239.253.64.121:5140
+http://112.66.229.143:8886/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://112.67.38.71:8686/rtp/239.253.64.119:5140
+http://112.66.229.143:8886/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
+http://112.67.34.78:8686/rtp/239.253.64.14:5140
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
+http://112.67.34.78:8686/rtp/239.253.64.124:5140
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
+http://112.67.34.78:8686/rtp/239.253.64.122:5140
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
+http://112.67.34.78:8686/rtp/239.253.64.121:5140
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
+http://112.67.34.78:8686/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
 http://119.41.142.222:4022/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
@@ -70,6 +70,16 @@ http://119.41.142.222:4022/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
 http://119.41.142.222:4022/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
+http://119.41.162.107:8188/rtp/239.253.64.14:5140
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
+http://119.41.162.107:8188/rtp/239.253.64.124:5140
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
+http://119.41.162.107:8188/rtp/239.253.64.122:5140
+#EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
+http://119.41.162.107:8188/rtp/239.253.64.121:5140
+#EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
+http://119.41.162.107:8188/rtp/239.253.64.119:5140
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
 http://119.41.162.38:8188/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
 http://119.41.162.38:8188/rtp/239.253.64.124:5140
@@ -80,52 +90,52 @@ http://119.41.162.38:8188/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
 http://119.41.162.38:8188/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://119.41.35.31:4000/rtp/239.253.64.14:5140
+http://119.41.168.185:8188/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://119.41.35.31:4000/rtp/239.253.64.124:5140
+http://119.41.168.185:8188/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://119.41.35.31:4000/rtp/239.253.64.122:5140
+http://119.41.168.185:8188/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://119.41.35.31:4000/rtp/239.253.64.121:5140
+http://119.41.168.185:8188/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://119.41.35.31:4000/rtp/239.253.64.119:5140
+http://119.41.168.185:8188/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://139.189.243.200:33333/rtp/239.253.64.14:5140
+http://119.41.170.75:8188/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://139.189.243.200:33333/rtp/239.253.64.124:5140
+http://119.41.170.75:8188/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://139.189.243.200:33333/rtp/239.253.64.122:5140
+http://119.41.170.75:8188/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://139.189.243.200:33333/rtp/239.253.64.121:5140
+http://119.41.170.75:8188/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://139.189.243.200:33333/rtp/239.253.64.119:5140
+http://119.41.170.75:8188/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://220.174.46.104:8888/rtp/239.253.64.14:5140
+http://119.41.35.107:4000/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://220.174.46.104:8888/rtp/239.253.64.124:5140
+http://119.41.35.107:4000/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://220.174.46.104:8888/rtp/239.253.64.122:5140
+http://119.41.35.107:4000/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://220.174.46.104:8888/rtp/239.253.64.121:5140
+http://119.41.35.107:4000/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://220.174.46.104:8888/rtp/239.253.64.119:5140
+http://119.41.35.107:4000/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://223.198.241.58:4000/rtp/239.253.64.14:5140
+http://220.174.33.125:8888/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://223.198.241.58:4000/rtp/239.253.64.124:5140
+http://220.174.33.125:8888/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://223.198.241.58:4000/rtp/239.253.64.122:5140
+http://220.174.33.125:8888/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://223.198.241.58:4000/rtp/239.253.64.121:5140
+http://220.174.33.125:8888/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://223.198.241.58:4000/rtp/239.253.64.119:5140
+http://220.174.33.125:8888/rtp/239.253.64.119:5140
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="央视高清",海南公共
-http://36.101.1.149:8886/rtp/239.253.64.14:5140
+http://223.198.243.229:4000/rtp/239.253.64.14:5140
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="央视高清",海南少儿
-http://36.101.1.149:8886/rtp/239.253.64.124:5140
+http://223.198.243.229:4000/rtp/239.253.64.124:5140
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="央视高清",海南文旅
-http://36.101.1.149:8886/rtp/239.253.64.122:5140
+http://223.198.243.229:4000/rtp/239.253.64.122:5140
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="卫视频道",海南新闻
-http://36.101.1.149:8886/rtp/239.253.64.121:5140
+http://223.198.243.229:4000/rtp/239.253.64.121:5140
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="卫视频道",海南自贸
-http://36.101.1.149:8886/rtp/239.253.64.119:5140
+http://223.198.243.229:4000/rtp/239.253.64.119:5140
